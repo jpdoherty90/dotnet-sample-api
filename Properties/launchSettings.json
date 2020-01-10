@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "HelloWorldApi": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "helloworld",
+      "applicationUrl": "http://localhost:8080",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
